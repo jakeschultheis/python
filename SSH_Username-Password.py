@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-#js - SSH_Username-Password.py
+#SSH_Username-Password.py - js
 #Quick script to SSH into Server using username & password and run a command
 
 import paramiko
