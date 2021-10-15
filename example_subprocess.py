@@ -1,6 +1,6 @@
 #!/usr/bin/python3
-#Subprocess_Example.py - js
-#Example of using Subprocess
+#example_subprocess.py - js
+#example of using subprocess
 import subprocess
 subprocess.run(["whoami"])
 subprocess.run(["pwd"])
